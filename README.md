@@ -31,3 +31,6 @@ python train_unet.py
 
 ## 👩‍💻 Author
 Dr.Sevil Funda Polat
+## Bakari Update
+
+This section was added in a new feature branch to demonstrate Git workflow.
